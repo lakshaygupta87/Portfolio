@@ -18,6 +18,9 @@ body {
 
 .navbar {
     background-color: #F5EDE1;
+    backdrop-filter: blur(5px); 
+    -webkit-backdrop-filter: blur(10px); 
+    box-shadow: 0 4px 6px rgba(14, 14, 14, 0.1);
 }
 
 .navbar .navbar-brand {

@@ -1,7 +1,7 @@
 var typed = new Typed(".auto-type", {
     strings: ["Frontend Developer", "Wordpress Developer"],
-    typeSpeed: 100,
-    backSpeed: 100,
+    typeSpeed: 120,
+    backSpeed: 50,
     loop: true
 });
 
